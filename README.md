@@ -1,5 +1,7 @@
 # poi-preset-resolve-extensions
 
+[![Build Status][ci-badge]][ci]
+
 Resolve extensions on Poi.
 
 ## Installation
@@ -39,3 +41,5 @@ Released under MIT license. You can see it [here][license].
 <!-- Links -->
 
 [license]: ./LICENSE
+[ci]: https://travis-ci.org/VitorLuizC/poi-preset-resolve-extensions
+[ci-badge]: https://travis-ci.org/VitorLuizC/poi-preset-resolve-extensions.svg?branch=master
