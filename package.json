@@ -1,0 +1,31 @@
+{
+  "name": "poi-preset-resolve-extensions",
+  "version": "1.0.0",
+  "description": "Resolve extensions on Poi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorLuizC/poi-preset-resolve-extensions.git"
+  },
+  "keywords": [
+    "poi-preset",
+    "poi"
+  ],
+  "author": {
+    "url": "https://vitorluizc.github.io/",
+    "name": "Vitor Luiz Cavalcanti",
+    "email": "vitorluizc@outlook.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VitorLuizC/poi-preset-resolve-extensions/issues"
+  },
+  "homepage": "https://github.com/VitorLuizC/poi-preset-resolve-extensions#readme",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "poi": "^9.6.13"
+  }
+}
